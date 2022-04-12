@@ -1,0 +1,10 @@
+def main():
+    print("Enter an integer:")
+    num1 = int(input())
+    print("Enter another integer:")
+    num2 = int(input())
+    print(str(num1) + " + " + str(num2) + " = " + str(num1 + num2))
+    print(str(num1) + " - " + str(num2) + " = " + str(num1 - num2))
+    print(str(num1) + " * " + str(num2) + " = " + str(num1 * num2))
+    print(str(num1) + " / " + str(num2) + " = " + str(num1 / num2))
+main()
