@@ -1,4 +1,4 @@
-\bin\
-\obj
+/basic-calculator/cs/bin
+/basic-calculator/cs/obj
 .DS_Store
 .vscode
