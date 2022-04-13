@@ -11,3 +11,4 @@ Doing basic to intermediate coding problems to practice languages I know.
 * Java
 * Javascript
 * Python
+* Lua
