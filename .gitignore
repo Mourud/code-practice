@@ -1,4 +1,5 @@
 /basic-calculator/cs/bin
 /basic-calculator/cs/obj
+/basic-calculator/cs/cs.csproj
 .DS_Store
 .vscode
